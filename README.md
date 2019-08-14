@@ -1,6 +1,6 @@
 <a href="https://fpinder.github.io/GroupProject1/"><img src="https://github.com/fpinder/GroupProject1/blob/master/assets/images/GroupProject.JPG" alt="Group Project1"></a>
 
-# Portfolio!!!
+# Group Project1!!!
 
 
 * js **The  website station.** The information* 
